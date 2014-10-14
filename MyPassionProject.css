@@ -1,4 +1,25 @@
 body {
 	background:peachpuff;
 }
-li {}
+
+.pink {
+	color: pink;
+}
+
+.center {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.smaller {
+	height: 400px;
+	width: 400px;
+}
+
+.justify {
+	text-align: justify;
+}
+
+.pinktext {
+	color: blue;
+}
